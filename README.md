@@ -3,4 +3,4 @@
 
  Repositório criado durante aula Estudonauta
 
- Essalinha eu adicionei diretamente do site, durante a aula.
+ Essa linha eu adicionei diretamente do site, durante a aula. Alteracao remota no README
